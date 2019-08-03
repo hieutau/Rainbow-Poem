@@ -1,1 +1,7 @@
 This is a repo for my rainbow
+Red 
+Yellow 
+Blue 
+Green 
+Orange 
+Multiple color
