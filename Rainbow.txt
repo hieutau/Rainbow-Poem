@@ -1,7 +1,12 @@
+The Rainbow and the Unicorn
+
 This is a repo for my rainbow
 Red 
 Yellow 
 Blue 
 Green 
+Unicorn
 Orange 
 Multiple color
+These are the colors of the rainbow
+and the Unicorn
