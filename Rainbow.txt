@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and ponies
 
 This is a repo for my rainbow
 Red 
@@ -8,6 +8,9 @@ Indigo
 Green 
 Unicorn
 Orange 
+Ponies
 Multiple color
+
 These are the colors of the rainbow
 and the Unicorn
+include ponies
