@@ -4,8 +4,9 @@ This is a repo for my rainbow
 Red 
 Yellow 
 Blue 
+Recycle!
 Indigo
-Green 
+Green
 Unicorn
 Orange 
 Ponies
